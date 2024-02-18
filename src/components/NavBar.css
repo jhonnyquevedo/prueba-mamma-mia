@@ -1,0 +1,15 @@
+.base{
+color: white;
+text-decoration: none;
+}
+
+.active{
+    font-size: 18px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: #17A2B8;
+    padding: 10px 70px;
+}
